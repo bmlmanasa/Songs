@@ -3,9 +3,38 @@
     src: url('fonts/Anupama-Medium.ttf') format('truetype');
     /* Add additional src lines for different font file formats if available */
 }
+@font-face {
+    font-family: "AnupamaBold";
+    src: url('fonts/Anupama-Bold.ttf') format('truetype');
+    /* Add additional src lines for different font file formats if available */
+}
+@font-face {
+    font-family: "AnupamaExtraBold";
+    src: url('fonts/Anupama-Extra-Bold.ttf') format('truetype');
+    /* Add additional src lines for different font file formats if available */
+}
+@font-face {
+    font-family: "PallaviBold";
+    src: url('fonts/Pallavi-Bold.ttf') format('truetype');
+    /* Add additional src lines for different font file formats if available */
+}
+@font-face {
+    font-family: "PriyankaBold";
+    src: url('fonts/Priyanka-Bold.ttf') format('truetype');
+    /* Add additional src lines for different font file formats if available */
+}
+@font-face {
+    font-family: "Rohini";
+    src: url('fonts/Rohini.ttf') format('truetype');
+    /* Add additional src lines for different font file formats if available */
+}
 body {
     font-family: 'AnupamaMedium',serif;
 }
+.text-priyanka{
+font-family: 'PriyankaBold',serif !important;
+}
+
 .block_ {
   color: #000;
   display: block;
@@ -58,6 +87,7 @@ body {
   line-height: 1.2;
   margin: 0;
   padding: 0;
+  font-family: inherit;
 }
 .block_6 {
   display: block;
@@ -65,6 +95,7 @@ body {
   text-indent: 36pt;
   margin: 0;
   padding: 0;
+  font-family: inherit;
 }
 .block_7 {
   display: block;
