@@ -1,0 +1,304 @@
+.block_ {
+  color: #000;
+  display: block;
+  font-family: "AnupamaExtraBold", serif;
+  font-size: 2em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.block_1 {
+  color: #000;
+  display: block;
+  font-family: "PallaviBold", serif;
+  font-size: 1.29167em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin: 0;
+  padding: 0;
+}
+.block_2 {
+  color: #000;
+  display: block;
+  font-family: "AnupamaMedium", serif;
+  line-height: 1.2;
+  margin: 0;
+  padding: 0;
+}
+.block_3 {
+  color: #000;
+  display: block;
+  font-family: "PriyaankaBold", serif;
+  font-size: 2em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 5.65pt 0 0;
+  padding: 0;
+}
+.block_4 {
+  display: block;
+  font-family: "Rohini", serif;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 36pt;
+  margin: 0 0 5.65pt;
+  padding: 0;
+}
+.block_5 {
+  display: block;
+  line-height: 1.2;
+  margin: 0;
+  padding: 0;
+}
+.block_6 {
+  display: block;
+  line-height: 1.2;
+  text-indent: 36pt;
+  margin: 0;
+  padding: 0;
+}
+.block_7 {
+  display: block;
+  line-height: 2;
+  font-size: 0.6em;
+  margin: 0;
+  padding: 0;
+}
+.block_8 {
+  display: block;
+  line-height: 2;
+  font-size: 0.6em;
+  text-indent: 36pt;
+  margin: 0;
+  padding: 0;
+}
+.block_9 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 36pt;
+  margin: 0;
+  padding: 0;
+}
+.block_10 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 36pt;
+  margin: 0 0 4.25pt;
+  padding: 0;
+}
+.block_11 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  margin: 0;
+  padding: 0;
+}
+.block_12 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 36pt;
+  margin: 0 0 2.85pt;
+  padding: 0;
+}
+.block_13 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  margin: 0 0 4.25pt;
+  padding: 0;
+}
+.block_14 {
+  display: block;
+  line-height: 1.2;
+  text-indent: 36pt;
+  margin: 0 0 2.85pt;
+  padding: 0;
+}
+.block_15 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 36pt;
+  margin: 0 0 5.65pt;
+  padding: 0;
+}
+.block_16 {
+  display: block;
+  font-family: serif;
+  font-size: 0.625em;
+  line-height: 16pt;
+  text-align: justify;
+  text-indent: 36pt;
+  margin: 0;
+  padding: 0;
+}
+.block_17 {
+  display: block;
+  font-family: "Calibri", sans-serif;
+  font-size: 0.75em;
+  line-height: 1.2;
+  margin: 0 0 10pt;
+  padding: 0;
+}
+.block_18 {
+  display: block;
+  font-family: "DingbitsThree", serif;
+  font-size: 2em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.block_19 {
+  color: #000;
+  display: block;
+  font-family: "Kranthi", serif;
+  font-size: 1.66667em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0 0 5.65pt;
+  padding: 0;
+}
+.block_20 {
+  display: block;
+  font-family: "Rohini", serif;
+  line-height: 1.2;
+  text-indent: 36pt;
+  margin: 0;
+  padding: 0;
+}
+.calibre {
+  display: block;
+  font-family: "Priyaanka", serif;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  display: table-row-group;
+  line-height: 1.2;
+  vertical-align: middle;
+}
+.calibre2 {
+  display: table-row;
+  line-height: 1.2;
+  vertical-align: inherit;
+}
+.calibre3 {
+  display: table-row;
+  vertical-align: inherit;
+}
+.calibre4 {
+  display: block;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre5 {
+  display: block;
+  font-size: 1em;
+  text-align: center;
+  margin: 0 5pt;
+  padding: 0;
+}
+.calibre6 {
+  display: block;
+}
+.calibre7 {
+  height: auto;
+  width: auto;
+}
+.table_ {
+  border-collapse: collapse;
+  border-spacing: 2px;
+  display: table;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-left: 4.65pt;
+  margin-top: 0;
+  text-indent: 0;
+  width: 333pt;
+}
+.td_ {
+  background-color: transparent;
+  border-bottom-style: none;
+  border-left-style: hidden;
+  border-right-style: hidden;
+  border-top-style: hidden;
+  display: table-cell;
+  line-height: 1.2;
+  text-align: inherit;
+  vertical-align: middle;
+  width: 333pt;
+  padding: 0.5ex 5.75pt;
+}
+.td_1 {
+  background-color: transparent;
+  border-bottom-style: none;
+  border-left-style: hidden;
+  border-right-style: none;
+  border-top-style: none;
+  display: table-cell;
+  line-height: 1.2;
+  text-align: inherit;
+  vertical-align: middle;
+  width: 305pt;
+  padding: 0.5ex 5.75pt;
+}
+.td_2 {
+  background-color: transparent;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-right-style: hidden;
+  border-top-style: none;
+  display: table-cell;
+  line-height: 1.2;
+  text-align: inherit;
+  vertical-align: middle;
+  width: 28.2pt;
+  padding: 0.5ex 5.75pt;
+}
+.td_3 {
+  background-color: transparent;
+  border-bottom-style: hidden;
+  border-left-style: hidden;
+  border-right-style: none;
+  border-top-style: none;
+  display: table-cell;
+  line-height: 1.2;
+  text-align: inherit;
+  vertical-align: middle;
+  width: 305pt;
+  padding: 0.5ex 5.75pt;
+}
+.td_4 {
+  background-color: transparent;
+  border-bottom-style: hidden;
+  border-left-style: none;
+  border-right-style: hidden;
+  border-top-style: none;
+  display: table-cell;
+  line-height: 1.2;
+  text-align: inherit;
+  vertical-align: middle;
+  width: 28.2pt;
+  padding: 0.5ex 5.75pt;
+}
+.text_ {
+  font-family: "Priyaanka", serif;
+  font-size: 1.6em;
+}
+.text_1 {
+  color: #000;
+  line-height: 1.2;
+}
+.text_2 {
+  font-family: "Times New Roman", serif;
+  font-size: 1em;
+}
