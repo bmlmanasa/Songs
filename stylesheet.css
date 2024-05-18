@@ -3,31 +3,31 @@
     src: url('fonts/Anupama-Medium.ttf') format('truetype');
     /* Add additional src lines for different font file formats if available */
 }
-@font-face {
+@font-face1 {
     font-family: "AnupamaBold";
     src: url('fonts/Anupama-Bold.ttf') format('truetype');
     /* Add additional src lines for different font file formats if available */
 }
-@font-face {
+@font-face2 {
     font-family: "AnupamaExtraBold";
     src: url('fonts/Anupama-Extra-Bold.ttf') format('truetype');
     /* Add additional src lines for different font file formats if available */
 }
-@font-face {
+@font-face3 {
     font-family: "PallaviBold";
     src: url('fonts/Pallavi-Bold.ttf') format('truetype');
     /* Add additional src lines for different font file formats if available */
-}@font-face {
+}@font-face4 {
     font-family: "Priyaanka";
     src: url('fonts/Priyaanka.ttf') format('truetype');
     /* Add additional src lines for different font file formats if available */
 }
-@font-face {
+@font-face5 {
     font-family: "PriyankaBold";
     src: url('fonts/Priyaanka-Bold.ttf') format('truetype');
     /* Add additional src lines for different font file formats if available */
 }
-@font-face {
+@font-face6 {
     font-family: "Rohini";
     src: url('fonts/Rohini.ttf') format('truetype');
     /* Add additional src lines for different font file formats if available */
