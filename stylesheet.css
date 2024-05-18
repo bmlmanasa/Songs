@@ -38,6 +38,9 @@ body {
 .text-priyanka{
 font-family: 'Priyaanka',serif !important;
 }
+.text-priyanka-bold{
+font-family: 'PriyankaBold',serif !important;
+}
 
 .block_ {
   color: #000;
@@ -70,7 +73,7 @@ font-family: 'Priyaanka',serif !important;
 .block_3 {
   color: #000;
   display: block;
-  font-family: "PriyaankaBold", serif;
+  font-family: "PriyankaBold", serif;
   font-size: 2em;
   line-height: 1.2;
   text-align: center;
