@@ -17,10 +17,14 @@
     font-family: "PallaviBold";
     src: url('fonts/Pallavi-Bold.ttf') format('truetype');
     /* Add additional src lines for different font file formats if available */
+}@font-face {
+    font-family: "Priyaanka";
+    src: url('fonts/Priyaanka.ttf') format('truetype');
+    /* Add additional src lines for different font file formats if available */
 }
 @font-face {
     font-family: "PriyankaBold";
-    src: url('fonts/Priyanka-Bold.ttf') format('truetype');
+    src: url('fonts/Priyaanka-Bold.ttf') format('truetype');
     /* Add additional src lines for different font file formats if available */
 }
 @font-face {
@@ -32,7 +36,7 @@ body {
     font-family: 'AnupamaMedium',serif;
 }
 .text-priyanka{
-font-family: 'PriyankaBold',serif !important;
+font-family: 'Priyaanka',serif !important;
 }
 
 .block_ {
