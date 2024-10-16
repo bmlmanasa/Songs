@@ -218,6 +218,15 @@ font-family: 'PriyankaBold',serif !important;
   margin: 0;
   padding: 0;
 }
+.block_21 {
+  color: #000;
+  display: block;
+  font-family: "NotoSerifTelugu-Medium", serif;
+  line-height: 1.2;
+  font-size: 1.3em;
+  margin: 0;
+  padding: 0;
+}
 .calibre {
   display: block;
   font-family: "Priyaanka", serif;
